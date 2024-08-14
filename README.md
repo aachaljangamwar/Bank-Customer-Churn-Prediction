@@ -7,8 +7,8 @@ The goal is to predict customer churn for a bank based on various features such 
 
 2. Dataset
 The dataset used for this project contains customer information including features like age, gender, balance, tenure, number of products, and more.
-Source: Kaggle (or specify another source if applicable).
-Data Size: 10,000+ rows and 14 columns (adjust according to your dataset).
+Source: Kaggle.
+Data Size: 10,000+ rows and 14 columns .
 
 3. Data Preprocessing
    
@@ -57,7 +57,7 @@ Cross-Validation: Used k-fold cross-validation to ensure model stability.
 
 13. Model Deployment
 Model Saving: Saved the trained model using Keras' model.save() function.
-Deployment: Deployed the model using Flask/Django or as a REST API for real-time predictions.
+Deployment: jupiter
 
 15. Conclusion
 Results Summary: The model achieved an accuracy of 79% on the test set, with a precision of 80%, recall of 77%, and an F1-score of 78% for the non-churn class. The model performs reliably in predicting customer churn.
