@@ -3,7 +3,7 @@ This project aims to predict whether a bank customer will churn (leave the bank)
 Below is a detailed step-by-step guide:
 
 1. Problem Definition
-The goal is to predict customer churn for a bank based on various features such as customer demographics, account information, and transaction history.
+The goal is to predict customer churn for a bank based on various features such as customer demographics, account information.
 
 2. Dataset
 The dataset used for this project contains customer information including features like age, gender, balance, tenure, number of products, and more.
